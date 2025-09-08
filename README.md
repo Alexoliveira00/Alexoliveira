@@ -1,24 +1,26 @@
-# 👨🏻‍💻 Alex Oliveira
+# 👩🏻‍💻 Alex Oliveira
 
 **`Desenvolvedor em Formacao`**
 
-Me chamo Alex Oliveira, tenho 39 anos e sou natural de Rondônia . Concluí o ensino médio na escola Julio Guerra. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
+Me chamo Alex de Oliveira, tenho 39 anos e sou natural de Rondônia. Concluí o ensino médio na escola Julio Guerra, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Cruzeiro Do Sul. Sou apaixonado por tecnologia
 
- <a href="https://github.com/AlexOliveira?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/AlexOliveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/AlexOliveira?tab=followers">
+    <a href="https://github.com/Alexoliveira?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AlexOliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Alexoliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -44,9 +46,8 @@ Me chamo Alex Oliveira, tenho 39 anos e sou natural de Rondônia . Concluí o en
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    />
 <br/>
 <br/>
 
@@ -65,7 +66,5 @@ Me chamo Alex Oliveira, tenho 39 anos e sou natural de Rondônia . Concluí o en
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexoliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
