@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Alex Oliveira
+# 👨🏻‍💻 Alex Oliveira
 
 **`Desenvolvedor em Formacao`**
 
