@@ -4,7 +4,7 @@
 
 Me chamo Alex de Oliveira, tenho 39 anos e sou natural de Rondônia. Concluí o ensino médio na escola Julio Guerra, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Cruzeiro Do Sul. Sou apaixonado por tecnologia
 
-  <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Alexoliveira?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
